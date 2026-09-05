@@ -42,3 +42,9 @@
 - r2i-02-yoimiya-unlit.webp · seed 161975 · "Unlit" · the match came out LIT and the shell burning — she lit it
 - r2i-03-mika-three-boxes.webp · seed 348157 · "Three Boxes" · four boxes came out, not three
 - r2i-04-yunjin-closed-curtain.webp · seed 323816 · "Curtain, Closed" · the refused number as a closed opera curtain
+
+## Interview Round Three (Wriothesley: Pick Forty-Three, cheap on purpose, no retry)
+- r3i-01-yoimiya-last-sparkler.webp · 524569 · "Last Sparkler"
+- r3i-02-layla-first-light.webp · 590783 · "First Light"
+- r3i-03-mika-same-seal.webp · 819578 · "Same Seal" (ink, one stroke, red seal)
+- r3i-04-yunjin-curtain-call.webp · 330295 · "Curtain Call" — TWO Sovereigns in frame (defect the Warden catches)
