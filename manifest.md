@@ -49,3 +49,10 @@
 - r3i-03-mika-same-seal.webp · 819578 · "Same Seal" (ink, one stroke, red seal)
 - r3i-04-yunjin-curtain-call.webp · 330295 · "Curtain Call" — TWO Sovereigns in frame (defect the Warden catches)
 - r3i-05-chambers-two-seats.webp · 717632 · chambers after R3, corrected designs (Hu Tao full-sized; distinct men)
+
+## Interview Round Four (Ayato: the Tonight card)
+- r4i-00-ayato-stands.webp · 65435 · establishing; Itto human-looking, horns
+- r4i-01-layla-tonights-star.webp · 865567 · "Tonight's Star"
+- r4i-02a-mika-refused-by-the-brush.webp · 252680 · the brush returned a safety placeholder ("maybe not safe") — tool fault, Warden-signed retry
+- r4i-03-yoimiya-lantern.webp · 58612 · "Lantern"
+- r4i-04-yunjin-one-act.webp · 141650 · "One Act" (she painted herself onto the card)
