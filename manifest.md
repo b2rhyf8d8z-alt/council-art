@@ -41,3 +41,4 @@
 - r2i-01-layla-overcast.webp · seed 943907 · "Overcast" · the refused number as a clouded sky; Layla asleep on his shoulder
 - r2i-02-yoimiya-unlit.webp · seed 161975 · "Unlit" · the match came out LIT and the shell burning — she lit it
 - r2i-03-mika-three-boxes.webp · seed 348157 · "Three Boxes" · four boxes came out, not three
+- r2i-04-yunjin-closed-curtain.webp · seed 323816 · "Curtain, Closed" · the refused number as a closed opera curtain
