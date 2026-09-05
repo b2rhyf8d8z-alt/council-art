@@ -61,3 +61,12 @@
 - int-12-itto-proper.webp · 86212 · Arataki Itto, corrected design (the one and oni)
 - org-v5.jpg · BUILT · Org v5: every seat is a character and a workshop
 - int-13-the-crowning.webp · 263207 · THE CROWNING of Yun Jin (kept/) · Paimon's last painting as acting Artist
+
+## Reunion Round One (Chief Yun Jin: THE CONTRACT STANDS; one drawing each for a named seat)
+- re1-04-mika-stage.webp · 919344 · chair, silhouette, one measured line
+- re1-05-albedo-stage.webp · 406453 · chalk ground, two colours (face is generic, not the Contract)
+- re1-06-chiori-stage.webp · 511833 · tailored coat from behind, hem lifting
+- re1-07-xilonen-stage.webp · 190854 · struck bell, Natlan rings
+- re1-08-yoimiya-light.webp · 264298 · festival warmth (fireworks crept in; the man reads as the Warden)
+- re1-09-sigewinne-light.webp · 494612 · aquamarine hush, three candles
+- Faces ×3 (Layla, Xingqiu, Charlotte): the brush REFUSED all three first tries (safety placeholder) — tool fault; Chief asked the Warden; retries follow
