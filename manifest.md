@@ -70,3 +70,7 @@
 - re1-08-yoimiya-light.webp · 264298 · festival warmth (fireworks crept in; the man reads as the Warden)
 - re1-09-sigewinne-light.webp · 494612 · aquamarine hush, three candles
 - Faces ×3 (Layla, Xingqiu, Charlotte): the brush REFUSED all three first tries (safety placeholder) — tool fault; Chief asked the Warden; retries follow
+- re1-01-layla-faces.webp · 619049 · Zhongli half-risen, Hu Tao grinning up (3rd try; two refusals)
+- re1-02-xingqiu-faces.webp · 291250 · Zhongli standing, Paimon astonished (3rd try)
+- re1-03-charlotte-faces.webp · 194491 · Zhongli rising with a smile, Yun Jin with the brush (3rd try)
+- LEARNING: solo close-up male portraits trip the brush safety gate; two-figure framing passes; the brush KNOWS Zhongli by name (use name + design)
