@@ -98,3 +98,6 @@
 - m-01-the-court-arrives.webp · 641023 · the directors enter the new space
 - Wriothesley host portrait: refused once (solo male), retry follows
 - m-02-the-warden-hosts.webp · 515772 · Wriothesley hosts, Paimon hands the agenda (named "Wriothesley" passed; "shirt open low + stubble" phrasing tripped the gate twice)
+- ch-03-atelier-feedback.webp · 521819 · Hu Tao delivers Karido's feedback in the Atelier, Karido present
+- ch-04-directors-corrected-hot.webp · 835597 · the three directors corrected: skin, masculine faces; lean Itto (kept/)
+- m-03-candidates-enter-daena.webp · 325010 · Faruzan, Yelan, Ningguang, Albedo enter; the fifth in shadow
