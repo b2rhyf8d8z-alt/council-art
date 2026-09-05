@@ -77,3 +77,8 @@
 
 ## Reunion Round Two (ceremony)
 - re2-00-the-five.webp · 904134 · the five before the Chief: Chiori, Mika, Charlotte, Xingqiu, Yoimiya (reinstated by the Sovereign)
+- re2-01-yoimiya-crowned-light.webp · 257708 · YOIMIYA CROWNED Artist of Light (kept/)
+- re2-02-charlotte-chair-told-no.webp · 66691 · Faces test: "The Chair, Told No" — outrage, finger, Zhongli's hand
+- re2-03-charlotte-free-itto.webp · 81558 · Faces free: Itto sees his own portrait; Thoma facepalms
+- re2-04-xingqiu-chair-told-no.webp · 383933 · Faces test: the gasp held; Zhongli behind
+- re2-05-xingqiu-free-paimon.webp · 525023 · Faces free: Paimon not reading the board
