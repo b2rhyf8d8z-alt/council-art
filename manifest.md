@@ -16,3 +16,11 @@
 - int-02a-the-room-before.jpg · BUILT · the court seated, easels empty, applicants outside
 - int-02-the-room.jpg · BUILT · the court seated with the seven candidates on the west wall (use when they enter)
 - int-03-the-court-seated.webp · PAINTED · the court at the long table: Hu Tao, Zhongli, Thoma, Karido (Aether) in the big chair, Paimon, Itto, Wriothesley, Ayato; easels behind · seed 682001 · precise design descriptions worked
+- int-04-the-doors-open.webp · seed 805232 · the seven enter
+- int-05-xingqiu-enters.webp · 802123
+- int-06-yunjin-enters.webp · 648392
+- int-07-mika-enters.webp · 111054
+- int-08-charlotte-enters.webp · 825254
+- int-09-yoimiya-enters.webp · 815112
+- int-10-layla-enters.webp · 969457
+- int-11-albedo-enters.webp · 454192
