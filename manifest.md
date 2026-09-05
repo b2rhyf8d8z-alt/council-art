@@ -112,3 +112,4 @@
 - ch-05-chambers-in-sumeru.webp · 791729 · the redesigned chambers, window on Daena; Karido summons everyone (sheet check passed)
 - m-r2-00-daena-night.webp · 38296 · "The Basis, By Lamplight" · House of Daena at night, rain; Zhongli at the slate, three candidates seated; flowers on the far step (Deck roll: 6, quiet)
 - m-r3-00-showdown.webp · 445263 · "Two at the Slate" · Albedo and Faruzan at the slate, greatsword chalked, Hu Tao from behind
+- m-r3-01-steps-in-rain.webp · 765715 · "The Price of One Evening" · Zhongli soaked on the Daena steps, Deputy Keeper under umbrella, Faruzan with the permit, flowers wilting
