@@ -102,3 +102,9 @@
 - ch-04-directors-corrected-hot.webp · 835597 · the three directors corrected: skin, masculine faces; lean Itto (kept/)
 - m-03-candidates-enter-daena.webp · 325010 · Faruzan, Yelan, Ningguang, Albedo enter; the fifth in shadow
 - ch-04b-directors-corrected-v2.webp · 944062 · REPAINT by the painter-of-faces workshop from the sheet verbatim; replaces ch-04 in kept/ (Itto fair-skinned, lean)
+
+## Mathematician Round One (Warden: the cost of being wrong — the Flins burst literal)
+- m-r1-02-ningguang-ledger.webp · 547700 · "The Counterparty" · ledger with red seal, Zhongli across
+- m-r1-03-yelan-interval.webp · 725173 · "How Much Would You Bet" · dice, a bracket on the slate, Hu Tao eyeing the third die
+- m-r1-04-faruzan-gears.webp · 320950 · "A Gear Cut for the Old Shaft" · two gears, Ayato listening
+- Albedo frame: refused once (Wriothesley's "bare chest" in a two-shot); retry with Paimon
