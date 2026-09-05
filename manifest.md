@@ -92,3 +92,8 @@
 ## Chambers (Paimon's agenda, Sep 5)
 - ch-01-atelier-concept.webp · 707782 · concept: the Atelier (Hu Tao's staff room) — four stations, drying racks, small stage
 - ch-02-sovereign-chambers-concept.webp · 209020 · concept: the Sovereign's chambers redesigned — round map table, jade lacquer, the thirds on slate
+
+## Mathematician hunt · Sumeru, House of Daena
+- m-00-house-of-daena.webp · 330049 · establishing: the House of Daena at night, seven chairs, Layla asleep (kept/)
+- m-01-the-court-arrives.webp · 641023 · the directors enter the new space
+- Wriothesley host portrait: refused once (solo male), retry follows
