@@ -110,3 +110,4 @@
 - Albedo frame: refused once (Wriothesley's "bare chest" in a two-shot); retry with Paimon
 - m-r1-01-albedo-two-columns.webp · 434852 · "Two Columns and a Line" · slate: circle | arrow; Paimon with chalk (retry: Wriothesley's chest wording removed)
 - ch-05-chambers-in-sumeru.webp · 791729 · the redesigned chambers, window on Daena; Karido summons everyone (sheet check passed)
+- m-r2-00-daena-night.webp · 38296 · "The Basis, By Lamplight" · House of Daena at night, rain; Zhongli at the slate, three candidates seated; flowers on the far step (Deck roll: 6, quiet)
