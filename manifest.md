@@ -101,3 +101,4 @@
 - ch-03-atelier-feedback.webp · 521819 · Hu Tao delivers Karido's feedback in the Atelier, Karido present
 - ch-04-directors-corrected-hot.webp · 835597 · the three directors corrected: skin, masculine faces; lean Itto (kept/)
 - m-03-candidates-enter-daena.webp · 325010 · Faruzan, Yelan, Ningguang, Albedo enter; the fifth in shadow
+- ch-04b-directors-corrected-v2.webp · 944062 · REPAINT by the painter-of-faces workshop from the sheet verbatim; replaces ch-04 in kept/ (Itto fair-skinned, lean)
