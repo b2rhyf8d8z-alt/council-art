@@ -48,3 +48,4 @@
 - r3i-02-layla-first-light.webp · 590783 · "First Light"
 - r3i-03-mika-same-seal.webp · 819578 · "Same Seal" (ink, one stroke, red seal)
 - r3i-04-yunjin-curtain-call.webp · 330295 · "Curtain Call" — TWO Sovereigns in frame (defect the Warden catches)
+- r3i-05-chambers-two-seats.webp · 717632 · chambers after R3, corrected designs (Hu Tao full-sized; distinct men)
