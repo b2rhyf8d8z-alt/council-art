@@ -56,3 +56,4 @@
 - r4i-02a-mika-refused-by-the-brush.webp · 252680 · the brush returned a safety placeholder ("maybe not safe") — tool fault, Warden-signed retry
 - r4i-03-yoimiya-lantern.webp · 58612 · "Lantern"
 - r4i-04-yunjin-one-act.webp · 141650 · "One Act" (she painted herself onto the card)
+- r4i-02-mika-bearing.webp · 488289 · "Bearing" · third attempt; the brush refused twice (placeholder), Warden-signed; Mika removed himself from the frame
