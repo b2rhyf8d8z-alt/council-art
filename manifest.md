@@ -28,3 +28,4 @@
 ## Interview Round One (Hu Tao: Pick One, unspoiled)
 - r1-01-xingqiu-the-turn-before-the-name.webp · seed 987551 · "The Turn Before the Name" · came out as an Ace of Hearts, face blank
 - r1-02-yunjin-the-cue.webp · seed 231434 · "The Cue" · beam lands on Karido alone
+- r1-03-mika-twelve-paces.webp · seed 820229 · "Twelve Paces, Back of the Card" · the chair came out EMPTY, on the stage
