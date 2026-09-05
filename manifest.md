@@ -12,3 +12,4 @@
 
 ## Interviews
 - int-01-great-hall-seven-easels.webp · establishing shot, ceremony · seed 341959 · seven draped easels, hat on the last, pocket watch
+- int-01-playbill-seven-zeros.jpg · BUILT stage (Claude Design system → QuickLook render) · ceremony playbill, seven zeros
