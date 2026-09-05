@@ -60,3 +60,4 @@
 - r4i-05-chambers-the-chair.webp · 325368 · chambers for the Chief; Itto still monstrous (design fix pending)
 - int-12-itto-proper.webp · 86212 · Arataki Itto, corrected design (the one and oni)
 - org-v5.jpg · BUILT · Org v5: every seat is a character and a workshop
+- int-13-the-crowning.webp · 263207 · THE CROWNING of Yun Jin (kept/) · Paimon's last painting as acting Artist
