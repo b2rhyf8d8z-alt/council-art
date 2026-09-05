@@ -38,3 +38,4 @@
 
 ## Interview Round Two (Zhongli)
 - r2i-00-directors-table-hot-warden.webp · seed 758819 · establishing shot, corrected designs: Wriothesley hot, Zhongli/Ayato masculine
+- r2i-01-layla-overcast.webp · seed 943907 · "Overcast" · the refused number as a clouded sky; Layla asleep on his shoulder
