@@ -82,3 +82,6 @@
 - re2-03-charlotte-free-itto.webp · 81558 · Faces free: Itto sees his own portrait; Thoma facepalms
 - re2-04-xingqiu-chair-told-no.webp · 383933 · Faces test: the gasp held; Zhongli behind
 - re2-05-xingqiu-free-paimon.webp · 525023 · Faces free: Paimon not reading the board
+- re2-08-charlotte-crowned-faces.webp · 697148 · CHARLOTTE CROWNED Painter of Faces (kept/)
+- re2-06-chiori-stage-board.jpg · BUILT by the stage-artist workshop in Chiori's aesthetic · Stage test
+- re2-07-mika-stage-board.jpg · BUILT by the stage-artist workshop in Mika's aesthetic · Stage test
