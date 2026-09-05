@@ -32,3 +32,4 @@
 - r1-04-charlotte-the-hall-stops-breathing.webp · seed 32473 · "The Hall Stops Breathing" · nine reactions, Paimon shadow arms up
 - r1-05-yoimiya-first-shell.webp · seed 608571 · "First Shell" · every colour at once
 - r1-06-layla-first-star-before-dark.webp · seed 355976 · "First Star, Before Dark" · the card face is a twilight sky
+- r1-07-albedo-thirds.webp · seed 555478 · "Thirds" · came out as an ACE OF DIAMONDS — second suit leak of the night
