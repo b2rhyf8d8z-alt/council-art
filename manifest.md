@@ -13,3 +13,5 @@
 ## Interviews
 - int-01-great-hall-seven-easels.webp · establishing shot, ceremony · seed 341959 · seven draped easels, hat on the last, pocket watch
 - int-01-playbill-seven-zeros.jpg · BUILT stage (Claude Design system → QuickLook render) · ceremony playbill, seven zeros
+- int-02a-the-room-before.jpg · BUILT · the court seated, easels empty, applicants outside
+- int-02-the-room.jpg · BUILT · the court seated with the seven candidates on the west wall (use when they enter)
