@@ -74,3 +74,6 @@
 - re1-02-xingqiu-faces.webp · 291250 · Zhongli standing, Paimon astonished (3rd try)
 - re1-03-charlotte-faces.webp · 194491 · Zhongli rising with a smile, Yun Jin with the brush (3rd try)
 - LEARNING: solo close-up male portraits trip the brush safety gate; two-figure framing passes; the brush KNOWS Zhongli by name (use name + design)
+
+## Reunion Round Two (ceremony)
+- re2-00-the-five.webp · 904134 · the five before the Chief: Chiori, Mika, Charlotte, Xingqiu, Yoimiya (reinstated by the Sovereign)
