@@ -113,3 +113,4 @@
 - m-r2-00-daena-night.webp · 38296 · "The Basis, By Lamplight" · House of Daena at night, rain; Zhongli at the slate, three candidates seated; flowers on the far step (Deck roll: 6, quiet)
 - m-r3-00-showdown.webp · 445263 · "Two at the Slate" · Albedo and Faruzan at the slate, greatsword chalked, Hu Tao from behind
 - m-r3-01-steps-in-rain.webp · 765715 · "The Price of One Evening" · Zhongli soaked on the Daena steps, Deputy Keeper under umbrella, Faruzan with the permit, flowers wilting
+- m-r3-02-meropide.webp · 440616 · "The Contract, Remanded" · Zhongli walked into the Fortress of Meropide between two guards; inmates watch; ring behind
