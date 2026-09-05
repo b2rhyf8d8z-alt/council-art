@@ -9,3 +9,6 @@
 - r2-05-albedo-jade-chamber.webp · 1280x720 · seed 6902 · one diagonal, three values, palace alone in negative space
 - r2-06-charlotte-jade-chamber.webp · 1280x720 · seed 16325 · pier crowd looking up, child pointing, guard, palace behind
 - r2-07-xingqiu-jade-chamber.webp · 1280x720 · seed 227249 · from the terrace, kite rising; height read as low (the ground had not left)
+
+## Interviews
+- int-01-great-hall-seven-easels.webp · establishing shot, ceremony · seed 341959 · seven draped easels, hat on the last, pocket watch
