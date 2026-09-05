@@ -15,3 +15,4 @@
 - int-01-playbill-seven-zeros.jpg · BUILT stage (Claude Design system → QuickLook render) · ceremony playbill, seven zeros
 - int-02a-the-room-before.jpg · BUILT · the court seated, easels empty, applicants outside
 - int-02-the-room.jpg · BUILT · the court seated with the seven candidates on the west wall (use when they enter)
+- int-03-the-court-seated.webp · PAINTED · the court at the long table: Hu Tao, Zhongli, Thoma, Karido (Aether) in the big chair, Paimon, Itto, Wriothesley, Ayato; easels behind · seed 682001 · precise design descriptions worked
