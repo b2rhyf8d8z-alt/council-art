@@ -108,3 +108,4 @@
 - m-r1-03-yelan-interval.webp · 725173 · "How Much Would You Bet" · dice, a bracket on the slate, Hu Tao eyeing the third die
 - m-r1-04-faruzan-gears.webp · 320950 · "A Gear Cut for the Old Shaft" · two gears, Ayato listening
 - Albedo frame: refused once (Wriothesley's "bare chest" in a two-shot); retry with Paimon
+- m-r1-01-albedo-two-columns.webp · 434852 · "Two Columns and a Line" · slate: circle | arrow; Paimon with chalk (retry: Wriothesley's chest wording removed)
