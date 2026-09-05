@@ -109,3 +109,4 @@
 - m-r1-04-faruzan-gears.webp · 320950 · "A Gear Cut for the Old Shaft" · two gears, Ayato listening
 - Albedo frame: refused once (Wriothesley's "bare chest" in a two-shot); retry with Paimon
 - m-r1-01-albedo-two-columns.webp · 434852 · "Two Columns and a Line" · slate: circle | arrow; Paimon with chalk (retry: Wriothesley's chest wording removed)
+- ch-05-chambers-in-sumeru.webp · 791729 · the redesigned chambers, window on Daena; Karido summons everyone (sheet check passed)
