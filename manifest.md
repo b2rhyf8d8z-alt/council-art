@@ -97,3 +97,4 @@
 - m-00-house-of-daena.webp · 330049 · establishing: the House of Daena at night, seven chairs, Layla asleep (kept/)
 - m-01-the-court-arrives.webp · 641023 · the directors enter the new space
 - Wriothesley host portrait: refused once (solo male), retry follows
+- m-02-the-warden-hosts.webp · 515772 · Wriothesley hosts, Paimon hands the agenda (named "Wriothesley" passed; "shirt open low + stubble" phrasing tripped the gate twice)
