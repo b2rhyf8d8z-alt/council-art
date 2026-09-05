@@ -87,3 +87,8 @@
 - re2-07-mika-stage-board.jpg · BUILT by the stage-artist workshop in Mika's aesthetic · Stage test
 - re2-09-chiori-free-couture.webp · 913031 · Stage free: the four directors' outfits as a couture collection (the Chair's coat became a dress)
 - re2-10-mika-free-floorplan.webp · 219256 · Stage free: survey floor plan of the Great Hall
+- re2-11-mika-crowned-stage.webp · 5446 · MIKA CROWNED Stage Artist (kept/)
+
+## Chambers (Paimon's agenda, Sep 5)
+- ch-01-atelier-concept.webp · 707782 · concept: the Atelier (Hu Tao's staff room) — four stations, drying racks, small stage
+- ch-02-sovereign-chambers-concept.webp · 209020 · concept: the Sovereign's chambers redesigned — round map table, jade lacquer, the thirds on slate
