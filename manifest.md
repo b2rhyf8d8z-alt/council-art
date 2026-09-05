@@ -30,3 +30,4 @@
 - r1-02-yunjin-the-cue.webp · seed 231434 · "The Cue" · beam lands on Karido alone
 - r1-03-mika-twelve-paces.webp · seed 820229 · "Twelve Paces, Back of the Card" · the chair came out EMPTY, on the stage
 - r1-04-charlotte-the-hall-stops-breathing.webp · seed 32473 · "The Hall Stops Breathing" · nine reactions, Paimon shadow arms up
+- r1-05-yoimiya-first-shell.webp · seed 608571 · "First Shell" · every colour at once
