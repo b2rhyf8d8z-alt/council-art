@@ -58,3 +58,4 @@
 - r4i-04-yunjin-one-act.webp · 141650 · "One Act" (she painted herself onto the card)
 - r4i-02-mika-bearing.webp · 488289 · "Bearing" · third attempt; the brush refused twice (placeholder), Warden-signed; Mika removed himself from the frame
 - r4i-05-chambers-the-chair.webp · 325368 · chambers for the Chief; Itto still monstrous (design fix pending)
+- int-12-itto-proper.webp · 86212 · Arataki Itto, corrected design (the one and oni)
