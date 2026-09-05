@@ -24,3 +24,6 @@
 - int-09-yoimiya-enters.webp · 815112
 - int-10-layla-enters.webp · 969457
 - int-11-albedo-enters.webp · 454192
+
+## Interview Round One (Hu Tao: Pick One, unspoiled)
+- r1-01-xingqiu-the-turn-before-the-name.webp · seed 987551 · "The Turn Before the Name" · came out as an Ace of Hearts, face blank
