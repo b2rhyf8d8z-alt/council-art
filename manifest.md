@@ -35,3 +35,6 @@
 - r1-07-albedo-thirds.webp · seed 555478 · "Thirds" · came out as an ACE OF DIAMONDS — second suit leak of the night
 - r1-08-chambers-the-cut.webp · seed 410317 · chambers: Karido, directors, Paimon, Wanderer, Itto at the door
 - r1-09-three-exits.webp · seed 512871 · Xingqiu, Albedo, Charlotte leave; Itto came out as an old bearded man (noted)
+
+## Interview Round Two (Zhongli)
+- r2i-00-directors-table-hot-warden.webp · seed 758819 · establishing shot, corrected designs: Wriothesley hot, Zhongli/Ayato masculine
