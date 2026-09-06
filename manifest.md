@@ -136,3 +136,4 @@
 - cg-r25-signora.webp · 87228 · R2.5 GLAMOUR "The Correction" · Signora on a Snezhnayan balcony, aurora, mask in hand
 - cg-r25-yae.webp · 5768 · R2.5 GLAMOUR "A Thousand Lanterns" · Yae Miko on the Narukami steps, fan (first take refused)
 - cg-03-the-envelope.webp · 649648 · "The Envelope" · Paimon in a hard spotlight with a black envelope; five candidates in shadow (Deck: 8−1=7, Old Debt)
+- cg-04-r3-the-ledger.webp · 629127 · "The Cost of a Storm" · Wriothesley with the ledger, coat open, square face/broken nose (Differentiation Law PASS: distinct from Zhongli); Arlecchino, Navia, Signora (Deck: 5−1=4 OUTBURST Upstaged; pressure reset 0)
