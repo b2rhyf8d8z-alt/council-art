@@ -201,3 +201,4 @@
 - study-03-the-uplevel.webp — D7 night, the Study · 3: Paimon at the corkboard with a brush; Karido in the leather chair reading a card (MAN ✓, collar open); Hu Tao asleep on the window seat with cards. seed 608786. Charlotte ✓ Mika ✓. SIGNED.
 - doors-00-the-ring.webp — D7 the Serenitea Pot ring: seven free-standing doors (ice, stone, blue glass, green wood, violet, bamboo, red lacquer), scaffolds; Paimon with plans; Karido from behind (MAN ✓). seed 920690. Charlotte ✓ Mika ✓. SIGNED.
 - NEVER REMOVE: doors-00-the-ring.webp — the Sovereign called it exceptional (D7). It is the Board of Doors banner.
+- study-04-nine-doors.webp — D7 the Study · 4: the nine-door board chalked on slate; Paimon pointing at door 7; Karido in the chair (MAN ✓); and THROUGH THE WINDOW a thin vertical tear of pale light over the harbor — the Rift seed, unnoticed by both. seed 766880. Charlotte ✓ Mika ✓. SIGNED. Seeds Door 7 (THE RIFT).
