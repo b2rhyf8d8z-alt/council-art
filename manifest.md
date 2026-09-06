@@ -116,3 +116,4 @@
 - m-r3-02-meropide.webp · 440616 · "The Contract, Remanded" · Zhongli walked into the Fortress of Meropide between two guards; inmates watch; ring behind
 - m-r4-00-steps-at-dawn.webp · 301315 · "The Field Asks" · Ayato with tea on the Daena steps at dawn, Ganyu with the charter, Albedo and Faruzan (Deck: quiet)
 - m-r5-00-paimons-stake.webp · 126034 · "Paimon's Stake" · Paimon at the slate with the P99-A curve; Albedo and Faruzan; directors seated on the steps (Deck: disturbance)
+- m-crown-faruzan.webp · 614292 · "Out of Spite" · Faruzan crowned Mathematician on the Daena steps by Hu Tao; court applauds (Paimon rendered blonde — noted)
