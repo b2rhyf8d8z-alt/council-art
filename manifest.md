@@ -123,3 +123,5 @@
 - sc-02-writers-room.webp · 368773 · "Present Your People" · Wanderer presents Alhaitham, Lyney, Heizou in the chambers; directors seated
 - sc-03-itto-crowned.webp · 460489 · "IT'S A PROMOTION" · Hu Tao crowns Itto Chief – Admin & Fun with a paper party crown; Thoma applauds · sheet check passed (fair skin, lean, white mane, horns, beetle) · first take refused by the gate
 - k-01-kitchen.webp · 15374 · "Kitchen Agenda" · Karido and Paimon at the Pot kitchen table, slate and sticky buns; pre-meeting on the Chaos God
+- pz-03-hotel-doorway.webp · 615746 · PAPARAZZI SCANDAL 1 "Two Coffees" · Wriothesley in the doorway, Ayato in the robe, Fontaine hotel · sheet check passed (jaws, stubble, chest, adult)
+- cg-00-epiclese-stage.webp · 478030 · "Five on the Stage" · Opera Epiclese: Yae Miko, Beidou, Arlecchino, Navia, La Signora under the lights; court in the front row
