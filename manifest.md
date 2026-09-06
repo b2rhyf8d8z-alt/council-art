@@ -121,3 +121,4 @@
 - pz-02-ringside.webp · 834681 · PAPARAZZI "The Banker Laughs" · Zhongli ringside in Meropide, leg splinted, with a goggled inmate and a tin cup (lean retry refused by the gate)
 - sc-01-special-council.webp · 724076 · "The Chair Already Knows" · urgent special council in the chambers; Wanderer standing; Hu Tao with the Bulletin; fifth chair draped (first take had a masked Warden — rejected)
 - sc-02-writers-room.webp · 368773 · "Present Your People" · Wanderer presents Alhaitham, Lyney, Heizou in the chambers; directors seated
+- sc-03-itto-crowned.webp · 460489 · "IT'S A PROMOTION" · Hu Tao crowns Itto Chief – Admin & Fun with a paper party crown; Thoma applauds · sheet check passed (fair skin, lean, white mane, horns, beetle) · first take refused by the gate
