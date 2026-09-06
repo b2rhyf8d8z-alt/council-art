@@ -118,3 +118,4 @@
 - m-r5-00-paimons-stake.webp · 126034 · "Paimon's Stake" · Paimon at the slate with the P99-A curve; Albedo and Faruzan; directors seated on the steps (Deck: disturbance)
 - m-crown-faruzan.webp · 614292 · "Out of Spite" · Faruzan crowned Mathematician on the Daena steps by Hu Tao; court applauds (Paimon rendered blonde — noted)
 - pz-01-third-row.webp · 273657 · PAPARAZZI "Third Row, Not Alone" · Ayato and Wriothesley at the Zubayr Theater, arm along the seat
+- pz-02-ringside.webp · 834681 · PAPARAZZI "The Banker Laughs" · Zhongli ringside in Meropide, leg splinted, with a goggled inmate and a tin cup (lean retry refused by the gate)
