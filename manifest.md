@@ -119,3 +119,4 @@
 - m-crown-faruzan.webp · 614292 · "Out of Spite" · Faruzan crowned Mathematician on the Daena steps by Hu Tao; court applauds (Paimon rendered blonde — noted)
 - pz-01-third-row.webp · 273657 · PAPARAZZI "Third Row, Not Alone" · Ayato and Wriothesley at the Zubayr Theater, arm along the seat
 - pz-02-ringside.webp · 834681 · PAPARAZZI "The Banker Laughs" · Zhongli ringside in Meropide, leg splinted, with a goggled inmate and a tin cup (lean retry refused by the gate)
+- sc-01-special-council.webp · 724076 · "The Chair Already Knows" · urgent special council in the chambers; Wanderer standing; Hu Tao with the Bulletin; fifth chair draped (first take had a masked Warden — rejected)
