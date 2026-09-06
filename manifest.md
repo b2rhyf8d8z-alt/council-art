@@ -145,3 +145,5 @@
 - (first take 32247 REJECTED: directors off-model in background; two Paimons) — never reuse
 - cg-crown-signora.webp · 801322 · "A Correction, Crowned" · Karido crowns La Signora God of Chaos with a frost-thorn crown; Paimon with the scroll · veto: no directors in frame; Signora and Karido on-model · HUNG
 - k-02-coffee-from-behind.webp · 400091 · "Coffee, and an Envelope" · Karido from behind at the kitchen window, Paimon on his shoulder, the Bulletin unopened (Composition Law: candid from behind)
+- rc-01b-epiclese-carpet-repaint.webp · 258557 · RED CARPET 1 REPAINT "Three Men, Three Silhouettes" · long coat / no jacket / cropped jacket · HANG VETO (Charlotte): lean-athletic? YES ×3 · sharp jaws? YES · recognisably them? YES · 3/3 silhouettes YES · scan clean · note: Zhongli coat open but a waistcoat beneath (brush refuses his bare chest; Outfits to dispatch to Faces next time) · HUNG
+- sg-01-press-desk.webp · 832179 · "One Word" · Signora from behind at the press desk, red pen, frost on the desk, B.'s chair empty with a flower (B. never painted)
