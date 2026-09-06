@@ -163,3 +163,4 @@
 - ex-05-mavuika-stair.webp · 535433 · EXPERIENCE HUNT · Scene 5 "Called Back Up the Stair" · Mavuika from behind on the jade stair, Paimon above with the scroll · candid · Deck: 4 → OUTBURST
 - ex-06a-hutao-unlimited.webp · 676407 · R5 "Unlimited" (Hu Tao) · veiled blossom hat, black-crimson gown, gold butterflies, crimson train, a flame · posed portrait
 - ex-06b-odette-unlimited.webp · 200482 · R5 "Unlimited" (Odette) · swan-feather gown, ice-lace cape, crystal crown, the coin at her throat, en pointe · posed portrait
+- ex-07-odette-crowned.webp — D1 second founding, Experience Hunt Scene 7: Karido crowns Odette PLAIN with a white-jade circlet on the Jade Chamber terrace at sunrise; Paimon with the scroll. Posed (crowning exception). seed 881427. Charlotte: three figures, Odette's face on-model, Karido's braid ✓. Mika: sunrise composition ✓. SIGNED.
