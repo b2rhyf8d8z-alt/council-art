@@ -141,3 +141,4 @@
 - cg-r35-signora-frost.webp · 194656 · MET GALA "Hoarfrost" · Signora, ice-lace gown, frozen snow cape, frost on the steps
 - cg-04b-r3-the-ledger.webp · 133914 · "The Cost of a Storm" REPAINT · HANG VETO (Charlotte, in writing): lean-athletic? YES (V-torso, defined abs) · sharp jaw? YES · recognisably him? YES (black hair, white streaks, stubble, grey eyes) · forbidden-word scan: clean · HUNG
 - cg-05-r4-the-tired-man.webp · 231226 · "What the Tired Man Feels" · Ayato with tea, Arlecchino (flame hem), Signora (ice) · HANG VETO (Charlotte): lean-athletic? YES · sharp jaw/chin? YES · recognisably him? YES · scan clean · HUNG (Deck: roll 2 → OUTBURST "The Chair Stands"; pressure 0)
+- cg-06-r5-from-behind.webp · 195618 · "The Sovereign Asks" · from BEHIND Arlecchino and Signora at the stage edge; Karido on the golden chair, Paimon beside (Composition Law: first candid-from-behind scene frame) · Deck: 11 → RIPPLE "the lens cap's owner writes"
