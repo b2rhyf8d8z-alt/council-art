@@ -151,3 +151,4 @@
 - wk-01-ghost-rehearsal.webp · 421458 · "The Ghost of Fun" · PAINTED AHEAD — the rehearsal scene is a PLAN; frame held until the scene is played with Karido present
 - (first take 182199 REJECTED: a second Karido in the foreground) — never reuse
 - st-01-the-study.webp · 813277 · THE STUDY · 1 "Two Chairs and a Slate" · Karido in the leather chair, Paimon with chalk, the home office at dusk · candid · two figures only · HUNG
+- ex-01-jade-stair.webp · 442125 · EXPERIENCE HUNT · Scene 1 "Five, Plain, on the Stair" · Jade Chamber terrace; Karido enthroned, Paimon; Hu Tao, Yae Miko, Mavuika, Nefer, Odette in everyday dress (Ascension: plain until crowned) · candid from the stair · Deck: 4 → OUTBURST
