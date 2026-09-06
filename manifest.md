@@ -130,3 +130,7 @@
 - cg-01-r1-the-entrance.webp · 468172 · "The Chair Asks About Entrances" · Hu Tao center stage, five candidates behind (Deck: quiet; pressure 1)
 - faces/signora.png · crop of cg-00 · La Signora avatar (paimon-moe has no icon for her)
 - cg-02-r2-never-touch.webp · 377766 · "What She Will Never Touch" · Zhongli at the stage edge, coat OPEN (finally), Signora two steps above looking away · sheet check: long face, open coat PASS (Deck: roll 12 −1 pressure = 11 RIPPLE, The Bill)
+- cg-r25-beidou.webp · 55958 · R2.5 GLAMOUR "The Weather, Dressed" · Beidou on the Alcor prow, lightning
+- cg-r25-arlecchino.webp · 195011 · R2.5 GLAMOUR "The Hearth Waits" · Arlecchino on the marble stair, candelabra
+- cg-r25-navia.webp · 899029 · R2.5 GLAMOUR "Golden Hour, Court of Fontaine" · Navia mid-spin, gold parasol
+- cg-r25-signora.webp · 87228 · R2.5 GLAMOUR "The Correction" · Signora on a Snezhnayan balcony, aurora, mask in hand
