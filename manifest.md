@@ -115,3 +115,4 @@
 - m-r3-01-steps-in-rain.webp · 765715 · "The Price of One Evening" · Zhongli soaked on the Daena steps, Deputy Keeper under umbrella, Faruzan with the permit, flowers wilting
 - m-r3-02-meropide.webp · 440616 · "The Contract, Remanded" · Zhongli walked into the Fortress of Meropide between two guards; inmates watch; ring behind
 - m-r4-00-steps-at-dawn.webp · 301315 · "The Field Asks" · Ayato with tea on the Daena steps at dawn, Ganyu with the charter, Albedo and Faruzan (Deck: quiet)
+- m-r5-00-paimons-stake.webp · 126034 · "Paimon's Stake" · Paimon at the slate with the P99-A curve; Albedo and Faruzan; directors seated on the steps (Deck: disturbance)
