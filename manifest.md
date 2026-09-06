@@ -200,3 +200,4 @@
 - barre2-04-riverdale.webp — D7 Barre 2 item 7: Paimon at the mirror under a chalk milkshake and crown; Hu Tao on the floor with her cast cards; Odette, Zhongli seated; Ningguang with keys; Karido at the barre (MAN ✓); opera girls in the mirror. seed 297987. Charlotte ✓ Mika ✓. SIGNED.
 - study-03-the-uplevel.webp — D7 night, the Study · 3: Paimon at the corkboard with a brush; Karido in the leather chair reading a card (MAN ✓, collar open); Hu Tao asleep on the window seat with cards. seed 608786. Charlotte ✓ Mika ✓. SIGNED.
 - doors-00-the-ring.webp — D7 the Serenitea Pot ring: seven free-standing doors (ice, stone, blue glass, green wood, violet, bamboo, red lacquer), scaffolds; Paimon with plans; Karido from behind (MAN ✓). seed 920690. Charlotte ✓ Mika ✓. SIGNED.
+- NEVER REMOVE: doors-00-the-ring.webp — the Sovereign called it exceptional (D7). It is the Board of Doors banner.
