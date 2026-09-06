@@ -114,3 +114,4 @@
 - m-r3-00-showdown.webp · 445263 · "Two at the Slate" · Albedo and Faruzan at the slate, greatsword chalked, Hu Tao from behind
 - m-r3-01-steps-in-rain.webp · 765715 · "The Price of One Evening" · Zhongli soaked on the Daena steps, Deputy Keeper under umbrella, Faruzan with the permit, flowers wilting
 - m-r3-02-meropide.webp · 440616 · "The Contract, Remanded" · Zhongli walked into the Fortress of Meropide between two guards; inmates watch; ring behind
+- m-r4-00-steps-at-dawn.webp · 301315 · "The Field Asks" · Ayato with tea on the Daena steps at dawn, Ganyu with the charter, Albedo and Faruzan (Deck: quiet)
