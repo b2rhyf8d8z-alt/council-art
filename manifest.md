@@ -129,3 +129,4 @@
 - pz-04-the-fitting.webp · 419369 · PAPARAZZI SCANDAL 2 "Measured" · Zhongli on the fitting stool, Cook measuring too closely, Hu Tao laughing (two Hu Taos rendered — brush doubled her; hung, the Bulletin will joke)
 - cg-01-r1-the-entrance.webp · 468172 · "The Chair Asks About Entrances" · Hu Tao center stage, five candidates behind (Deck: quiet; pressure 1)
 - faces/signora.png · crop of cg-00 · La Signora avatar (paimon-moe has no icon for her)
+- cg-02-r2-never-touch.webp · 377766 · "What She Will Never Touch" · Zhongli at the stage edge, coat OPEN (finally), Signora two steps above looking away · sheet check: long face, open coat PASS (Deck: roll 12 −1 pressure = 11 RIPPLE, The Bill)
