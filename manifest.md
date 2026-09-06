@@ -152,3 +152,4 @@
 - (first take 182199 REJECTED: a second Karido in the foreground) — never reuse
 - st-01-the-study.webp · 813277 · THE STUDY · 1 "Two Chairs and a Slate" · Karido in the leather chair, Paimon with chalk, the home office at dusk · candid · two figures only · HUNG
 - ex-01-jade-stair.webp · 442125 · EXPERIENCE HUNT · Scene 1 "Five, Plain, on the Stair" · Jade Chamber terrace; Karido enthroned, Paimon; Hu Tao, Yae Miko, Mavuika, Nefer, Odette in everyday dress (Ascension: plain until crowned) · candid from the stair · Deck: 4 → OUTBURST
+- ex-02-r1-from-the-chair.webp · 311213 · EXPERIENCE HUNT · Scene 2 "From Behind the Chair" · over Karido's shoulder at the five (candid, from behind) · Deck: 10 → RIPPLE (the harbor heard Hu Tao)
