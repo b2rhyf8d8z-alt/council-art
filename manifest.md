@@ -161,3 +161,5 @@
 - ex-04e-mavuika-carpet.webp · 991511 · R3 CARPET (Mavuika) · Natlan stadium; leather duster (Zhongli, shirt beneath — brush) / harness, bare torso (Wriothesley) / cropped leather (Ayato) · 3/3 YES
 - ex-04f-odette-carpet.webp · 62470 · R3 CARPET (Odette) · snow carpet, ice light; long white coat (Zhongli, vest beneath — brush) / white waistcoat open (Wriothesley) / cropped white (Ayato) · 3/3 YES
 - ex-05-mavuika-stair.webp · 535433 · EXPERIENCE HUNT · Scene 5 "Called Back Up the Stair" · Mavuika from behind on the jade stair, Paimon above with the scroll · candid · Deck: 4 → OUTBURST
+- ex-06a-hutao-unlimited.webp · 676407 · R5 "Unlimited" (Hu Tao) · veiled blossom hat, black-crimson gown, gold butterflies, crimson train, a flame · posed portrait
+- ex-06b-odette-unlimited.webp · 200482 · R5 "Unlimited" (Odette) · swan-feather gown, ice-lace cape, crystal crown, the coin at her throat, en pointe · posed portrait
