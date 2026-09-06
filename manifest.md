@@ -135,3 +135,4 @@
 - cg-r25-navia.webp · 899029 · R2.5 GLAMOUR "Golden Hour, Court of Fontaine" · Navia mid-spin, gold parasol
 - cg-r25-signora.webp · 87228 · R2.5 GLAMOUR "The Correction" · Signora on a Snezhnayan balcony, aurora, mask in hand
 - cg-r25-yae.webp · 5768 · R2.5 GLAMOUR "A Thousand Lanterns" · Yae Miko on the Narukami steps, fan (first take refused)
+- cg-03-the-envelope.webp · 649648 · "The Envelope" · Paimon in a hard spotlight with a black envelope; five candidates in shadow (Deck: 8−1=7, Old Debt)
