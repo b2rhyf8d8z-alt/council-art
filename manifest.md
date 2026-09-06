@@ -134,3 +134,4 @@
 - cg-r25-arlecchino.webp · 195011 · R2.5 GLAMOUR "The Hearth Waits" · Arlecchino on the marble stair, candelabra
 - cg-r25-navia.webp · 899029 · R2.5 GLAMOUR "Golden Hour, Court of Fontaine" · Navia mid-spin, gold parasol
 - cg-r25-signora.webp · 87228 · R2.5 GLAMOUR "The Correction" · Signora on a Snezhnayan balcony, aurora, mask in hand
+- cg-r25-yae.webp · 5768 · R2.5 GLAMOUR "A Thousand Lanterns" · Yae Miko on the Narukami steps, fan (first take refused)
