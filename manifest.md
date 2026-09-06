@@ -128,3 +128,4 @@
 - rc-01-epiclese-carpet.webp · 720922 · RED CARPET 1 "Four, Not Five" · Opera Epiclese steps; Hu Tao gown, Zhongli cane, Wriothesley + Ayato open at the chest · sheet check: men adult/jawed PASS; Zhongli coat closed FAIL (brush refused the open coat twice) — Chief note: repaint owed; hung under protest
 - pz-04-the-fitting.webp · 419369 · PAPARAZZI SCANDAL 2 "Measured" · Zhongli on the fitting stool, Cook measuring too closely, Hu Tao laughing (two Hu Taos rendered — brush doubled her; hung, the Bulletin will joke)
 - cg-01-r1-the-entrance.webp · 468172 · "The Chair Asks About Entrances" · Hu Tao center stage, five candidates behind (Deck: quiet; pressure 1)
+- faces/signora.png · crop of cg-00 · La Signora avatar (paimon-moe has no icon for her)
