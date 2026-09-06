@@ -149,3 +149,5 @@
 - sg-01-press-desk.webp · 832179 · "One Word" · Signora from behind at the press desk, red pen, frost on the desk, B.'s chair empty with a flower (B. never painted)
 - dm-01-five-directors.webp · 304282 · "Five Chairs, Filled" · first directors' meeting portrait: Hu Tao, Signora (crown, frost), Zhongli, Wriothesley, Ayato · HANG VETO (Charlotte): lean-athletic? YES ×3 · sharp jaws? YES · recognisably them? YES · 3/3 silhouettes YES · scan clean · HUNG (held for the meeting)
 - wk-01-ghost-rehearsal.webp · 421458 · "The Ghost of Fun" · PAINTED AHEAD — the rehearsal scene is a PLAN; frame held until the scene is played with Karido present
+- (first take 182199 REJECTED: a second Karido in the foreground) — never reuse
+- st-01-the-study.webp · 813277 · THE STUDY · 1 "Two Chairs and a Slate" · Karido in the leather chair, Paimon with chalk, the home office at dusk · candid · two figures only · HUNG
