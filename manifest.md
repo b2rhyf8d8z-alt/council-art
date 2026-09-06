@@ -140,3 +140,4 @@
 - cg-r35-arlecchino-flame.webp · 242368 · MET GALA "The Hearth Wears Black" · Arlecchino, gown dissolving into flame, fire in palm
 - cg-r35-signora-frost.webp · 194656 · MET GALA "Hoarfrost" · Signora, ice-lace gown, frozen snow cape, frost on the steps
 - cg-04b-r3-the-ledger.webp · 133914 · "The Cost of a Storm" REPAINT · HANG VETO (Charlotte, in writing): lean-athletic? YES (V-torso, defined abs) · sharp jaw? YES · recognisably him? YES (black hair, white streaks, stubble, grey eyes) · forbidden-word scan: clean · HUNG
+- cg-05-r4-the-tired-man.webp · 231226 · "What the Tired Man Feels" · Ayato with tea, Arlecchino (flame hem), Signora (ice) · HANG VETO (Charlotte): lean-athletic? YES · sharp jaw/chin? YES · recognisably him? YES · scan clean · HUNG (Deck: roll 2 → OUTBURST "The Chair Stands"; pressure 0)
