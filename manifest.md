@@ -154,3 +154,9 @@
 - ex-01-jade-stair.webp · 442125 · EXPERIENCE HUNT · Scene 1 "Five, Plain, on the Stair" · Jade Chamber terrace; Karido enthroned, Paimon; Hu Tao, Yae Miko, Mavuika, Nefer, Odette in everyday dress (Ascension: plain until crowned) · candid from the stair · Deck: 4 → OUTBURST
 - ex-02-r1-from-the-chair.webp · 311213 · EXPERIENCE HUNT · Scene 2 "From Behind the Chair" · over Karido's shoulder at the five (candid, from behind) · Deck: 10 → RIPPLE (the harbor heard Hu Tao)
 - ex-03-r2-the-cloth.webp · 845933 · EXPERIENCE HUNT · Scene 3 "The Cloth" · through the jade doorway, from behind: five candidates at the fabric table, Odette at the mirror · Deck: 15 → QUIET (pressure 1)
+- ex-04a-hutao-beach.webp · 892557 · R3 BEACH (Hu Tao) · from behind; Wriothesley + Ayato in crimson-sashed trunks; Zhongli fully dressed under a black parasol (the brush kept him clothed) · veto: lean/glutes/close-cut YES ×2; Zhongli clothed NOTED
+- ex-04b-mavuika-beach.webp · 314331 · R3 BEACH (Mavuika) · black-sand Natlan; harness trunks; from behind · veto: lean YES ×3, three builds distinct YES
+- ex-04c-odette-beach.webp · 339343 · R3 BEACH (Odette) · pale dawn beach; white trunks; ballet line from behind · veto: lean YES ×3, distinct YES
+- ex-04d-hutao-carpet.webp · 223902 · R3 CARPET (Hu Tao) · black carpet, plum blossoms; long crimson coat (Zhongli, shirt beneath — brush) / open black waistcoat (Wriothesley) / cropped crimson (Ayato) · 3 silhouettes YES · faces distinct YES
+- ex-04e-mavuika-carpet.webp · 991511 · R3 CARPET (Mavuika) · Natlan stadium; leather duster (Zhongli, shirt beneath — brush) / harness, bare torso (Wriothesley) / cropped leather (Ayato) · 3/3 YES
+- ex-04f-odette-carpet.webp · 62470 · R3 CARPET (Odette) · snow carpet, ice light; long white coat (Zhongli, vest beneath — brush) / white waistcoat open (Wriothesley) / cropped white (Ayato) · 3/3 YES
