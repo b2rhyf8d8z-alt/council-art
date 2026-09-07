@@ -294,3 +294,4 @@
 - odette-01-mirror.png — seed 170613. Odette alone at the dressing-room mirror, both hands flat on the table, the circlet set down, one glass. Sheet 3/3.
 - STRUCK before hanging: machinery-five seed 170612 — Flins painted blue-grey (FLINS IS PALE law). Re-rolled with "the same fair skin tone as the two women."
 - machinery-01-five.png — seed 170622 (v3). The five before the chained stage gate; Flins PALE this time ("the same fair skin tone as the two women"); Kaeya short-cut; Wriothesley mature. Sheet 3/3. v2 (170621) struck: Flins tan, not ivory.
+- portraits/kaeya-glamour.png (v2, seed 170704) — the SHORT CUT (Men's Cuts law, D22): undercut, swept back; both eyes pale blue; warm brown skin; coat open, wine. Supersedes the long-haired portrait, kept as kaeya-glamour-season0.png. Sheet 3/3.
