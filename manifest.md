@@ -273,3 +273,5 @@
 - portraits/wriothesley-glamour.png — seed 170105. Black shirt open, sleeves rolled, coat over one shoulder, teacup; plain black hair, NO STREAK. Sheet 3/3.
 - pap-10-two-women.png — seed 170108, 1536×864. Keqing and Clorinde on the carpet, the photographers in frame. Sheet 3/3.
 - STRUCK before hanging: carpet-three-gods seed 170106 (Zhongli's hair short — sheet says long, tied back); pap-three-men seed 170107 (rendered black — a fault). Both re-rolled.
+- portraits/flins-glamour.png — FLINS, Lightkeeper of Nod-Krai, replaces Cyno on the Forge slate (Karido, D17). Comfy Cloud, seed 170301, 1024×1536: pale skin, pupil-less yellow eyes, dark-blue hair with light-blue tips and the long section, coffin charms, lantern and polearm, jacket open. Sheet 3/3.
+- faces/flins-sheet9.png → faces/flins-{nine moods}.png — Comfy Cloud, seed 170302, 1536×1536, first try. Ninth panel flushed with red-tinted eyes; kept as the turned-on face.
