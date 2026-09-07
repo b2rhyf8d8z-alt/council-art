@@ -258,3 +258,8 @@
 - SUPERSEDED: the eight single FLUX portraits of Wriothesley (drifting faces, each its own seed) are replaced by this one sheet.
 - portraits/{keqing,clorinde,cyno,kaeya,wriothesley}-portrait.webp — D16 THE CEREMONY (Introduction Law): one candidate portrait each at the Forge Opening, painted on the fallback brush with the style anchored properly (cel-shaded anime key art, Genshin key-art idiom, 85mm, rim light, rain-dark opera bokeh, 832x1216). seeds 510001-510005. PRE-HANG 3/3 each: Keqing and Clorinde unmistakably women; Cyno, Kaeya, Wriothesley masculine and to the sheet; Kaeya without an eyepatch per the Sovereign; one figure each; no Paimon. SIGNED (Odette acting Chief Artist / Keeper of Ceremonies).
 - FLUX PROMPT IDIOM, PROVEN (D16): the quality gap was never the model. Anchor the style outright ("cel-shaded anime key art, Genshin Impact style, clean bold linework, flat shading, vibrant saturated colour"), name the optics ("85mm, shallow depth", "dramatic rim light from behind"), keep it near 70 words, give the background one atmospheric phrase, and LOCK THE SEED. Written that way FLUX matches the house vibe.
+
+## D16 — WRIOTHESLEY, NINE FACES, COMFY CLOUD
+- faces/wriothesley-sheet9.png → faces/wriothesley-{laughing,furious,smug,hurt,shocked,bored,scheming,tender,turned-on}.png. Painted on Comfy Cloud (Z-Image-Turbo, 1536×1536, 8 steps), seed 908822, prompt_id b235d01f. Earlier rolls 424242 and 771903 struck.
+- CANON: NO GREY STREAK, by the Sovereign's word (D16). Plain black swept-back hair.
+- Supersedes the FLUX grid (@470ddffa) and the eight single FLUX portraits, now deleted.
