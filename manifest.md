@@ -319,3 +319,8 @@
 - s2-candidates-men.png — action: Kaeya and Flins take the floor mid-step, coats open.
 - s2-candidates-women.png — action: Keqing and Clorinde (second pass; the first drew Clorinde as a man, so her sheet line now says it outright).
 - s2-presenting-wriothesley.png — action: the host presents the Duke (second pass; the first put Odette in a literal tutu, so 'like a dancer' is now 'the bearing only, never a tutu').
+
+- s3-place-forge-floor: the Forge Floor, empty, painted before anyone spoke (place order, venues.json).
+- s3-press-wriothesley-kaeya: Round One, the press bench, action shot from order.py.
+- s3-battery-keqing-clorinde: Round One, the test battery, action shot from order.py (second take: the all-women frame no longer carries the men clause).
+- s3-board-flins: Round One, the failing board, action shot, cropped to the lamp line.
