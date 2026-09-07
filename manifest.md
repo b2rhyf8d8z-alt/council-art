@@ -299,3 +299,7 @@
 ## D22 — TWENTY-SEVEN FACES: WRIOTHESLEY (the sample that set the law)
 - faces/wriothesley-sheet27-{mild,strong,extreme}.png — Comfy Cloud, ONE seed (908822), the canonical SHEET ORDER (desire, scheming, tender / furious, smug, hurt / shocked, bored, laughing). Six passes to get here: the 27-in-one grid rejected (the brush lost the grid and drew a literal devil), row three kept shutting its eyes until the eye-critical faces were moved to row one, and "devilish" became "decided" at the Sovereign's word. Grey eyes pinned in every panel.
 - faces/wriothesley-{mood}-{1,2,3}.png (27) + faces/wriothesley-{mood}.png (the nine strong defaults). The strong SMUG panel is composited from the same-seed third pass, because the brush painted tears in that slot twice. LOOK LOCKED.
+
+## D22 — TWENTY-SEVEN FACES, WAVE ONE (the ten who speak this season; Ningguang follows in her own commit)
+- faces/<slug>-sheet27-{mild,strong,extreme}.png for odette, zhongli, tartaglia, hu_tao, paimon, keqing, clorinde, flins, kaeya — Comfy Cloud, one seed per character (crc32 of the slug), SHEET ORDER, canon eyes pinned, the house style (elegant adult, hard masculine profiles, short cuts). Paimon keeps her canon chibi proportions as the one exception.
+- faces/<slug>-{mood}-{1,2,3}.png (27 each) + faces/<slug>-{mood}.png (strong defaults). Slot fixes borrowed from a same-seed sheet where the brush missed: zhongli hurt-3/bored-3 (swapped), tartaglia smug-2/hurt-2, hu_tao hurt-2, keqing hurt-2, clorinde hurt-2, flins smug-2/furious-2/hurt-2. LOOK LOCKED on registration.
