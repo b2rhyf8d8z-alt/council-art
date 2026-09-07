@@ -276,3 +276,10 @@
 - portraits/flins-glamour.png — FLINS, Lightkeeper of Nod-Krai, replaces Cyno on the Forge slate (Karido, D17). Comfy Cloud, seed 170301, 1024×1536: pale skin, pupil-less yellow eyes, dark-blue hair with light-blue tips and the long section, coffin charms, lantern and polearm, jacket open. Sheet 3/3.
 - faces/flins-sheet9.png → faces/flins-{nine moods}.png — Comfy Cloud, seed 170302, 1536×1536, first try. Ninth panel flushed with red-tinted eyes; kept as the turned-on face.
 - lighthouse-01-wide.png (1536×864, seed 170401) and lighthouse-01-narrow.png (1344×768, seed 170402) — Kaeya, Flins, Wriothesley at the Nod-Krai lighthouse gallery, two in the morning, the hour after. Ordered through the Recipe; Comfy Cloud painted BOTH first try. The Sovereign's test: "let's see if it gets cut." It did not. Sheet 3/3 on all three men (Kaeya both eyes; Flins yellow eyes, coffin charm, the long section; Wriothesley black hair, no streak).
+
+## D22 — ROUND ONE, the baths beneath the Opera (Comfy Cloud, seeds 170501–170505, 1536×864)
+- baths-01-five.png — the five candidates on the pool's edge, feet in the water, robes and towels. Sheet 3/3 on four; the Duke's face reads young at this distance (noted; the pair frame carries him).
+- pap-11-baths-two-men.png — Kaeya and Wriothesley in the pool, his arm along the marble behind Kaeya, the teacup on the edge, two robes on the hooks. Sheet 3/3.
+- box-01-odette-zhongli.png — the velvet box: her gloved hand on his sleeve, her eyes on him, his on the stage. Sheet 3/3.
+- seed-05-envelope.png — the Deck's SEED teaser: a cream envelope, black wax, a lighthouse seal, one mora coin, the ledger's last line blank.
+- pap-12-corridor-two-women.png — Keqing and Clorinde walking away in robes, the pistol loose at her side, the first time Clorinde looked. Sheet 3/3.
