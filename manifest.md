@@ -293,3 +293,4 @@
 - pap-13-front-page-kiss.png — seed 170611. Kaeya and Wriothesley kissing at the pool's edge under the last lamp, his hand at the small of Kaeya's back, the robes on one hook, the teacup. The Paparazzi's front page. Sheet 3/3: the short cut, both eyes; the Duke mature, stubbled.
 - odette-01-mirror.png — seed 170613. Odette alone at the dressing-room mirror, both hands flat on the table, the circlet set down, one glass. Sheet 3/3.
 - STRUCK before hanging: machinery-five seed 170612 — Flins painted blue-grey (FLINS IS PALE law). Re-rolled with "the same fair skin tone as the two women."
+- machinery-01-five.png — seed 170622 (v3). The five before the chained stage gate; Flins PALE this time ("the same fair skin tone as the two women"); Kaeya short-cut; Wriothesley mature. Sheet 3/3. v2 (170621) struck: Flins tan, not ivory.
