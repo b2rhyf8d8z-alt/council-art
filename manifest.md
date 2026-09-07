@@ -328,3 +328,7 @@
 - s4-place-hall-work: the Hall of Eight re-set for work, empty, painted before the round.
 - s4-trestle-clorinde-flins: Round Two at the trestle boards, action shot from order.py.
 - s4-doorway-tartaglia-wriothesley: Round Two, the side doorway, the look (second take: the dress rule now names garments instead of forbidding skin, and it worked first try).
+
+- s5-place-hall-cut: the Hall of Eight dressed for a cut, empty, the standing-board at the front.
+- s5-clorinde-hears-it: the Champion Duelist hearing her own name from the stage.
+- s5-tartaglia-kaeya: the God of Fortune and the card he nominated, as the second name is read (cropped to the two).
