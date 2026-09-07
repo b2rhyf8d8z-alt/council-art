@@ -313,3 +313,9 @@
 - s1-pap-flins.png — the Paparazzi's flash: Flins mid-turn, one hand against the light.
 
 ## D22 late — CROPS RE-CUT: cut27 now centres the head with a slight upward bias (Odette's chin was being cut off). All eleven characters re-cut from their same sheets and seeds; the twenty-seven faces are unchanged in content, only framed properly.
+
+## SEASON 1 · SESSION 2 — THE INTRODUCTION CEREMONY
+- s2-place-hall.png — THE PLACE, painted first and empty: the Hall of Eight, eight banners, the Forge chair vacant. Second pass; the first leaked a man into an empty room because the house style names the men's profiles, so place orders now use their own style line.
+- s2-candidates-men.png — action: Kaeya and Flins take the floor mid-step, coats open.
+- s2-candidates-women.png — action: Keqing and Clorinde (second pass; the first drew Clorinde as a man, so her sheet line now says it outright).
+- s2-presenting-wriothesley.png — action: the host presents the Duke (second pass; the first put Odette in a literal tutu, so 'like a dancer' is now 'the bearing only, never a tutu').
