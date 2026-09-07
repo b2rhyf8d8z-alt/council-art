@@ -221,3 +221,4 @@
 - seed-02-the-catwalk.webp — D11 SEED CARD (Deck seed roll 9): a silhouetted figure sitting on the opera's catwalk with legs dangling, a thin vertical tear of pale blue-white light behind. No face. Door 7 palette. seed 633202. Obeys the Seed Card Law: one hook, one image, no names/answers/dates. SIGNED.
 - fo-05-the-steps.webp — D11 18:00, the first cut: Neuvillette and Furina walk down the Opera's steps; Paimon watches from the top. seed 549581. 3/3 SIGNED.
 - pap-03-the-counter.webp — D11 PAPARAZZI DROP: Zhongli at the Northland counter at two in the morning, handing a coin to the night manager. Leaks NIGHT N2. seed 514221. SIGNED.
+- fo-06-five-chairs.webp — D12 11:00, Fortune R3: the counting room, five empty Keeper chairs with titles chalked above; Ningguang seated in the middle one; Mona and Tartaglia across the table. Built with engine/order.py. seed 202786. 3/3 SIGNED.
