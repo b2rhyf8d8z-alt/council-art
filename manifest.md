@@ -311,3 +311,5 @@
 - s1-carpet-men.png — Kaeya, Wriothesley, Flins at the top of the steps, none of them looking at the same camera.
 - s1-empty-throne.png — Zhongli, Tartaglia and Ningguang under the Forge banner, the throne behind them empty.
 - s1-pap-flins.png — the Paparazzi's flash: Flins mid-turn, one hand against the light.
+
+## D22 late — CROPS RE-CUT: cut27 now centres the head with a slight upward bias (Odette's chin was being cut off). All eleven characters re-cut from their same sheets and seeds; the twenty-seven faces are unchanged in content, only framed properly.
