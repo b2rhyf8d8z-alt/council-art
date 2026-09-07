@@ -264,3 +264,12 @@
 - CANON: NO GREY STREAK, by the Sovereign's word (D16). Plain black swept-back hair.
 - Supersedes the FLUX grid (@470ddffa) and the eight single FLUX portraits, now deleted.
 - balcony-01.png — Kaeya and Wriothesley, the Opera balcony at midnight, from behind, the hour after. Comfy Cloud, Z-Image-Turbo 1536×864, seed 870384, prompt_id 1e60ce3d. The first pair frame of the class the free Space refused four times on D16. Composed through order.py --heat (the Recipe, unchanged).
+
+## D17 — ACT 4 RESTART: the ceremony portraits and the carpet (Comfy Cloud, Z-Image-Turbo, 8 steps)
+- portraits/keqing-glamour.png — seed 170101, 1024×1536. Midnight-purple gown, long black gloves, the crystal ornament. Sheet 3/3.
+- portraits/clorinde-glamour.png — seed 170102. Backless midnight-blue silk, the cravat, hair down, pistol in hand. Sheet 3/3.
+- portraits/cyno-glamour.png — seed 170103. Black tuxedo jacket open, gold chain, the jackal headpiece read as gold ears; dark brown skin, white hair, red eyes. Sheet 3/3.
+- portraits/kaeya-glamour.png — seed 170104. Coat open, fur at the shoulder, wine in hand, BOTH EYES uncovered. Sheet 3/3.
+- portraits/wriothesley-glamour.png — seed 170105. Black shirt open, sleeves rolled, coat over one shoulder, teacup; plain black hair, NO STREAK. Sheet 3/3.
+- pap-10-two-women.png — seed 170108, 1536×864. Keqing and Clorinde on the carpet, the photographers in frame. Sheet 3/3.
+- STRUCK before hanging: carpet-three-gods seed 170106 (Zhongli's hair short — sheet says long, tied back); pap-three-men seed 170107 (rendered black — a fault). Both re-rolled.
