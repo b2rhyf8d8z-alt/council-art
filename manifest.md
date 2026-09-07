@@ -288,3 +288,8 @@
 - four-men-01.png — Zhongli, Kaeya, Wriothesley, Tartaglia in the Opera foyer (Comfy, seed 170601). THE STANDARD for the four: Zhongli and Tartaglia unchanged; Kaeya short-cut, both eyes, face kept; Wriothesley mature, stubbled, weathered. Sheet 3/3 ×4.
 - faces/kaeya-sheet9-v2.png → faces/kaeya-{nine}.png (seed 170602) — the short cut; supersedes the long-haired nine of @1c6030ea.
 - faces/flins-sheet9-v2.png → faces/flins-{nine}.png (seed 170603) — pale ivory, built, short cut; supersedes @6ee9bc4. The ninth panel keeps the flush.
+
+## D22 — ROUND TWO frames (Comfy Cloud, 1536×864)
+- pap-13-front-page-kiss.png — seed 170611. Kaeya and Wriothesley kissing at the pool's edge under the last lamp, his hand at the small of Kaeya's back, the robes on one hook, the teacup. The Paparazzi's front page. Sheet 3/3: the short cut, both eyes; the Duke mature, stubbled.
+- odette-01-mirror.png — seed 170613. Odette alone at the dressing-room mirror, both hands flat on the table, the circlet set down, one glass. Sheet 3/3.
+- STRUCK before hanging: machinery-five seed 170612 — Flins painted blue-grey (FLINS IS PALE law). Re-rolled with "the same fair skin tone as the two women."
