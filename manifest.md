@@ -324,3 +324,7 @@
 - s3-press-wriothesley-kaeya: Round One, the press bench, action shot from order.py.
 - s3-battery-keqing-clorinde: Round One, the test battery, action shot from order.py (second take: the all-women frame no longer carries the men clause).
 - s3-board-flins: Round One, the failing board, action shot, cropped to the lamp line.
+
+- s4-place-hall-work: the Hall of Eight re-set for work, empty, painted before the round.
+- s4-trestle-clorinde-flins: Round Two at the trestle boards, action shot from order.py.
+- s4-doorway-tartaglia-wriothesley: Round Two, the side doorway, the look (second take: the dress rule now names garments instead of forbidding skin, and it worked first try).
