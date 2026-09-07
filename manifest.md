@@ -263,3 +263,4 @@
 - faces/wriothesley-sheet9.png → faces/wriothesley-{laughing,furious,smug,hurt,shocked,bored,scheming,tender,turned-on}.png. Painted on Comfy Cloud (Z-Image-Turbo, 1536×1536, 8 steps), seed 908822, prompt_id b235d01f. Earlier rolls 424242 and 771903 struck.
 - CANON: NO GREY STREAK, by the Sovereign's word (D16). Plain black swept-back hair.
 - Supersedes the FLUX grid (@470ddffa) and the eight single FLUX portraits, now deleted.
+- balcony-01.png — Kaeya and Wriothesley, the Opera balcony at midnight, from behind, the hour after. Comfy Cloud, Z-Image-Turbo 1536×864, seed 870384, prompt_id 1e60ce3d. The first pair frame of the class the free Space refused four times on D16. Composed through order.py --heat (the Recipe, unchanged).
