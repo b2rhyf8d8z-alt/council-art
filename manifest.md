@@ -219,3 +219,5 @@
 - fo-03-the-bowl.webp — D10 21:00, Fortune R1: the week's mora heaped in a bronze bowl on deck, five candidates arced around it, Odette and Paimon from behind with slates. seed 849384. 3/3 SIGNED (Mona's eyes read red not violet — minor, noted, not rejected).
 - fo-04-the-rivals-house.webp — D11 15:00, Fortune R2: five candidates from behind on the Opera Epiclese stage; Navia alone in the third row of empty stalls with her parasol. seed 92907. 3/3 SIGNED.
 - seed-02-the-catwalk.webp — D11 SEED CARD (Deck seed roll 9): a silhouetted figure sitting on the opera's catwalk with legs dangling, a thin vertical tear of pale blue-white light behind. No face. Door 7 palette. seed 633202. Obeys the Seed Card Law: one hook, one image, no names/answers/dates. SIGNED.
+- fo-05-the-steps.webp — D11 18:00, the first cut: Neuvillette and Furina walk down the Opera's steps; Paimon watches from the top. seed 549581. 3/3 SIGNED.
+- pap-03-the-counter.webp — D11 PAPARAZZI DROP: Zhongli at the Northland counter at two in the morning, handing a coin to the night manager. Leaks NIGHT N2. seed 514221. SIGNED.
