@@ -295,3 +295,7 @@
 - STRUCK before hanging: machinery-five seed 170612 — Flins painted blue-grey (FLINS IS PALE law). Re-rolled with "the same fair skin tone as the two women."
 - machinery-01-five.png — seed 170622 (v3). The five before the chained stage gate; Flins PALE this time ("the same fair skin tone as the two women"); Kaeya short-cut; Wriothesley mature. Sheet 3/3. v2 (170621) struck: Flins tan, not ivory.
 - portraits/kaeya-glamour.png (v2, seed 170704) — the SHORT CUT (Men's Cuts law, D22): undercut, swept back; both eyes pale blue; warm brown skin; coat open, wine. Supersedes the long-haired portrait, kept as kaeya-glamour-season0.png. Sheet 3/3.
+
+## D22 — TWENTY-SEVEN FACES: WRIOTHESLEY (the sample that set the law)
+- faces/wriothesley-sheet27-{mild,strong,extreme}.png — Comfy Cloud, ONE seed (908822), the canonical SHEET ORDER (desire, scheming, tender / furious, smug, hurt / shocked, bored, laughing). Six passes to get here: the 27-in-one grid rejected (the brush lost the grid and drew a literal devil), row three kept shutting its eyes until the eye-critical faces were moved to row one, and "devilish" became "decided" at the Sovereign's word. Grey eyes pinned in every panel.
+- faces/wriothesley-{mood}-{1,2,3}.png (27) + faces/wriothesley-{mood}.png (the nine strong defaults). The strong SMUG panel is composited from the same-seed third pass, because the brush painted tears in that slot twice. LOOK LOCKED.
