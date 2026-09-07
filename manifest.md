@@ -305,3 +305,9 @@
 - faces/<slug>-{mood}-{1,2,3}.png (27 each) + faces/<slug>-{mood}.png (strong defaults). Slot fixes borrowed from a same-seed sheet where the brush missed: zhongli hurt-3/bored-3 (swapped), tartaglia smug-2/hurt-2, hu_tao hurt-2, keqing hurt-2, clorinde hurt-2, flins smug-2/furious-2/hurt-2. LOOK LOCKED on registration.
 - faces/ningguang-sheet27-{mild,strong,extreme}.png + 27 faces: second pass on a new seed (the first put her on a dark backdrop and painted tears in the smug slot twice); smug-3 borrowed from her strong sheet. LOOK LOCKED.
 - D22 late: Zhongli re-rolled on his seed with the hair tied (three sheets); Tartaglia's smug-2 borrowed from a second strong pass (sheet27-strong-b); Paimon's extreme sheet re-rolled on white. Ningguang's third extreme pass came back darker and was not used.
+
+## SEASON 1 · SESSION 1 — THE OPENING: THE CARPET AND THE SEAT (D22, take two)
+- s1-carpet-women.png — Odette, Keqing, Clorinde on the black marble steps (second pass; the first put a fourth woman in frame).
+- s1-carpet-men.png — Kaeya, Wriothesley, Flins at the top of the steps, none of them looking at the same camera.
+- s1-empty-throne.png — Zhongli, Tartaglia and Ningguang under the Forge banner, the throne behind them empty.
+- s1-pap-flins.png — the Paparazzi's flash: Flins mid-turn, one hand against the light.
