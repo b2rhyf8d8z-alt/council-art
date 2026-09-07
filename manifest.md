@@ -283,3 +283,8 @@
 - box-01-odette-zhongli.png — the velvet box: her gloved hand on his sleeve, her eyes on him, his on the stage. Sheet 3/3.
 - seed-05-envelope.png — the Deck's SEED teaser: a cream envelope, black wax, a lighthouse seal, one mora coin, the ledger's last line blank.
 - pap-12-corridor-two-women.png — Keqing and Clorinde walking away in robes, the pistol loose at her side, the first time Clorinde looked. Sheet 3/3.
+
+## D22 — THE MEN, RE-CUT (Karido: "no long flowy hair on the men; retain their faces"; "Flins turned blue")
+- four-men-01.png — Zhongli, Kaeya, Wriothesley, Tartaglia in the Opera foyer (Comfy, seed 170601). THE STANDARD for the four: Zhongli and Tartaglia unchanged; Kaeya short-cut, both eyes, face kept; Wriothesley mature, stubbled, weathered. Sheet 3/3 ×4.
+- faces/kaeya-sheet9-v2.png → faces/kaeya-{nine}.png (seed 170602) — the short cut; supersedes the long-haired nine of @1c6030ea.
+- faces/flins-sheet9-v2.png → faces/flins-{nine}.png (seed 170603) — pale ivory, built, short cut; supersedes @6ee9bc4. The ninth panel keeps the flush.
