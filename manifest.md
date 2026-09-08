@@ -335,3 +335,6 @@
 
 - s6-hazard-keqing-wriothesley: Round Three, the planted fault throwing sparks.
 - s6-ledger-clorinde-kaeya: the ledger called in on payday, in front of the floor.
+
+- s7-duel-keqing-wriothesley: Round Four, two put against each other at one press.
+- s7-stair-flins: Round Four, the withdrawal — the Lightkeeper halfway up the stair.
