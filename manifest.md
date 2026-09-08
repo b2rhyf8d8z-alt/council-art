@@ -341,3 +341,6 @@
 
 - s8-wriothesley-hears-it: the Final Two, the Duke hearing his name read as the one cut.
 - s8-final-two-keqing-flins: the last two, under the Forge banner and the empty chair (posed; a glamoured night).
+
+- s9-seat-keqing-flins: Round Five, the seat held for an hour each on the Forge Floor at eight in the morning (second take: the first had a third man).
+- s9-stair-wriothesley: the Duke on the service stair, told to stay and not told why.
