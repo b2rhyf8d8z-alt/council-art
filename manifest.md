@@ -338,3 +338,6 @@
 
 - s7-duel-keqing-wriothesley: Round Four, two put against each other at one press.
 - s7-stair-flins: Round Four, the withdrawal — the Lightkeeper halfway up the stair.
+
+- s8-wriothesley-hears-it: the Final Two, the Duke hearing his name read as the one cut.
+- s8-final-two-keqing-flins: the last two, under the Forge banner and the empty chair (posed; a glamoured night).
