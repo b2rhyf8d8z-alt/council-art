@@ -346,3 +346,7 @@
 - s9-stair-wriothesley: the Duke on the service stair, told to stay and not told why.
 
 - itto: twenty-seven faces via paint.py (three sheets, one seed). LOOK LOCKED.
+
+- s10-place-hall-crowning: the Hall of Eight dressed for a crowning at noon, empty, morning light.
+- s10-carpet-odette-wriothesley: the carpet at the Black Steps, the two who will hate each other by noon, not looking at each other (posed).
+- s10-crown-flins: the Forge chair under the lightning banner, cropped to the one who sits in it.
