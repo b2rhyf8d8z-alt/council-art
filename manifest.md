@@ -344,3 +344,5 @@
 
 - s9-seat-keqing-flins: Round Five, the seat held for an hour each on the Forge Floor at eight in the morning (second take: the first had a third man).
 - s9-stair-wriothesley: the Duke on the service stair, told to stay and not told why.
+
+- itto: twenty-seven faces via paint.py (three sheets, one seed). LOOK LOCKED.
