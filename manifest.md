@@ -332,3 +332,6 @@
 - s5-place-hall-cut: the Hall of Eight dressed for a cut, empty, the standing-board at the front.
 - s5-clorinde-hears-it: the Champion Duelist hearing her own name from the stage.
 - s5-tartaglia-kaeya: the God of Fortune and the card he nominated, as the second name is read (cropped to the two).
+
+- s6-hazard-keqing-wriothesley: Round Three, the planted fault throwing sparks.
+- s6-ledger-clorinde-kaeya: the ledger called in on payday, in front of the floor.
